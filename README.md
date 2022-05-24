@@ -8,4 +8,6 @@ The last tool i can use in debugging is the React Dev Tools. After installing it
 After some weeks off the project i focused on getting assesments for LinkedIn in JavaScript, HTML, Css and React itself. After successfully achieving good scores i will be focusing on the project again in order to finish it.  ![Screenshot_3](https://user-images.githubusercontent.com/90603989/169891555-1752142f-3b1e-4f56-9cca-0e18369aa925.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/90603989/169891559-d024c183-0d48-4df2-affc-73b5c0548963.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/90603989/169891566-d5cb3774-43d4-49ff-9381-d2124c0124a0.png)
-![Screenshot_2](https://user-images.githubusercontent.com/90603989/169891580-4046c907-e3d0-4846-81b0-d3d1dfe020bc.png)
+![Screenshot_2](https://user-images.githubusercontent.com/90603989/169891580-4046c907-e3d0-4846-81b0-d3d1dfe020bc.png)  
+## Day 26  
+Continuing to work on the project although some days will be condensed
