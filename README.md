@@ -10,4 +10,4 @@ After some weeks off the project i focused on getting assesments for LinkedIn in
 ![Screenshot_1](https://user-images.githubusercontent.com/90603989/169891566-d5cb3774-43d4-49ff-9381-d2124c0124a0.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/90603989/169891580-4046c907-e3d0-4846-81b0-d3d1dfe020bc.png)  
 ## Day 26  
-Continuing to work on the project although some days will be condensed
+Continuing to work on the project although some days will be condensed.
